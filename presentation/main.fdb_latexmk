@@ -1,10 +1,10 @@
 # Fdb version 3
-["biber main"] 1686836216 "main.bcf" "main.bbl" "main" 1686836254
-  "main.bcf" 1686836254 107360 60e12a6f5f40893609e719161614954f "pdflatex"
+["biber main"] 1686901423 "main.bcf" "main.bbl" "main" 1686902173
+  "main.bcf" 1686902173 107360 60e12a6f5f40893609e719161614954f "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
-["pdflatex"] 1686836237 "/Users/pascalpilz/Documents/4. Semester Latex/Seminar in AI/presentation/v3/main.tex" "main.pdf" "main" 1686836254
+["pdflatex"] 1686902157 "/Users/pascalpilz/Documents/4. Semester Latex/Seminar in AI/presentation/v3/main.tex" "main.pdf" "main" 1686902173
   "../../graphics//Ajne.png" 1686410576 131603 71a61baee6851a77160430597f791e46 ""
   "../../graphics//CLIP_architecture.png" 1686398754 410507 3535fc8c38853ebe5325b64eaaa677ed ""
   "../../graphics//CLIP_architecture_small.png" 1686582154 456781 0af34a8bd95bca7b22f00c8cd15d8cea ""
@@ -21,7 +21,7 @@
   "../../graphics//transfer_learning.png" 1686482882 1502250 666cf00837100665a65e0a274bc4118d ""
   "../../graphics//yfcc_table.png" 1686411162 1246292 092fb5fe14a9c0bf9b92d2aea24d3e4b ""
   "../../graphics//zero_shot.png" 1686772708 2018039 e451ca8af929e0a4dea753808fe287a0 ""
-  "/Users/pascalpilz/Documents/4. Semester Latex/Seminar in AI/presentation/v3/main.tex" 1686836215 25324 1146fb16ac41a16b469f0d2b90d49359 ""
+  "/Users/pascalpilz/Documents/4. Semester Latex/Seminar in AI/presentation/v3/main.tex" 1686902156 25355 e1d399ea66f5eb7577604534f5195ef6 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/inconsolata/i4-t1-0.enc" 1558214095 7631 5169ff1acd97ff1c4ab83563c99f96f4 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/lm/lm-mathex.enc" 1202520719 3486 c7eadf5dcc57b3b2d11736679f6636ba ""
@@ -467,13 +467,13 @@
   "logos/jku_en_white.pdf" 1664253796 4879 1eac8063fd041abb055ec04e3436a693 ""
   "logos/jku_k_black.pdf" 1664253796 1555 0325737bca332d1e5b60b94958189ebc ""
   "logos/jku_k_white.pdf" 1664253796 1555 13a705b3525b9b3ee4af0ef0ae232d89 ""
-  "main.aux" 1686836254 10453 39efdb5cda87746aa49f7dad09f2c3e5 "pdflatex"
+  "main.aux" 1686902173 10453 1c945a9e5178572fca8aa347fa068fc8 "pdflatex"
   "main.bbl" 0 -1 0 "biber main"
-  "main.nav" 1686836254 3547 94371064a193d4518abc58bb45697ffa "pdflatex"
-  "main.out" 1686836254 842 86474e08faecc04a84473f0dc65a69d6 "pdflatex"
-  "main.run.xml" 1686836254 2457 87553c1061f77d468abb290665d4d0ed "pdflatex"
-  "main.tex" 1686836215 25324 1146fb16ac41a16b469f0d2b90d49359 ""
-  "main.vrb" 1686836245 6359 cefecb5a627c26425e60257608ef7e4c "pdflatex"
+  "main.nav" 1686902173 3547 d3bce085c0462b44944ceaa88c3c56b7 "pdflatex"
+  "main.out" 1686902173 842 86474e08faecc04a84473f0dc65a69d6 "pdflatex"
+  "main.run.xml" 1686902173 2457 87553c1061f77d468abb290665d4d0ed "pdflatex"
+  "main.tex" 1686902156 25355 e1d399ea66f5eb7577604534f5195ef6 ""
+  "main.vrb" 1686902164 6359 cefecb5a627c26425e60257608ef7e4c "pdflatex"
   (generated)
   "main.aux"
   "main.bcf"
