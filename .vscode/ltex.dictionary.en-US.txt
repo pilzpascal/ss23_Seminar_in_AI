@@ -1,1 +1,13 @@
 JKU
+CLOOB
+Hopfield
+InfoLOOB
+Pilz
+InfoNCE
+ResNet
+CBOW
+CBOW
+encodings
+iid
+demonstrational
+YFCC
